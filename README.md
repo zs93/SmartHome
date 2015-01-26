@@ -11,9 +11,11 @@ demo是针对串口，网段修改，去掉LCD的显示
 ##termial的使用
 在demo基础上的修改，添加了自动安全组网（该原理的链接：[点击这里](http://www.cnblogs.com/samuelwnb/p/4250859.html)）然后可以对使用想要自己定义的IO口和功能的人使用！
 >具体修改地方请查看 termial目录下的README
+
 ##termialv2的使用
 在termialv2中，已经把所有的可以使用的IO口做了详细的划分！将相应的IO口都做了很好的分析
 >具体修改地方请查看 termialv2目录下的README
+
 #终端电路图
 正在绘制相应的原理图中~~~
 #ARM控制台
